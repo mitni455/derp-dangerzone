@@ -1,6 +1,6 @@
 <?php
 
-namespace Weaverryan\DangerZone;
+namespace Mitni\DangerZone;
 
 /**
  * A terribly useful class
@@ -14,7 +14,7 @@ class HalloThere
         return 'Hallo!';
     }
     
-    public function sayGoodby(){
+    public function sayGoodbye(){
         return 'Goodbye';
     }
 }
