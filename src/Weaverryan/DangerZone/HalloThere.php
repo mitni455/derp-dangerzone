@@ -13,4 +13,8 @@ class HalloThere
     {
         return 'Hallo!';
     }
+    
+    public function sayGoodby(){
+        return 'Goodbye';
+    }
 }
